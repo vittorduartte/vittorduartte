@@ -36,7 +36,7 @@ Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorduartte&layout=compact&theme=dracula" alt="vittorduartte's most languages"/>
 </p>
 
-## 📱 Redes Sociais
+## 📍 Onde você me encontra?
 
 <p align="left">
     <a href="https://twitter.com/vittorduartte_" target="_blank">
