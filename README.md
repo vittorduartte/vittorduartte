@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vittorduartte&color=red" alt="Profile views" /> </p>
 
-Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃.
+Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃
 
 - 🧑‍💻 Desenvolvedor Full Stack na [Terra Zoo](https://terrazoo.com.br/)
 - 🧑‍🎓 Graduado em Ciência e Tecnologia UFMA e Graduando em Engenharia da Computação UFMA
@@ -28,3 +28,27 @@ Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃.
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 Estatísticas
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vittorduartte&show_icons=true&theme=dracula" alt="vittorduartte's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorduartte&layout=compact&theme=dracula" alt="vittorduartte's most languages"/>
+</p>
+
+## 📱 Redes Sociais
+
+<p align="left">
+    <a href="https://twitter.com/vittorduartte_" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
+    </a>
+    <a href="https://linkedin.com/in/vittorduartte" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+    <a href="https://instagram.com/vittorduartte" target="_blank">
+     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+    </a>
+    <a href="https://gitlab.com/vittorduartte" target="_blank">
+     <img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="youtube"/>
+    </a>
+</p>
