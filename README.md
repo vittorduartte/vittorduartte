@@ -13,6 +13,8 @@ Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃
 - ⚡ Fun fact: já fui top 10 de acessos na categoria hardcore melódico do Palco MP3.
 - 💬 Você me encontra nas redes por @vittorduartte.
 
+<br><br>
+
 ## 🔧 Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -29,12 +31,16 @@ Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br><br>
+
 ## 📊 Estatísticas
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=vittorduartte&show_icons=true&theme=dracula" alt="vittorduartte's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittorduartte&layout=compact&theme=dracula" alt="vittorduartte's most languages"/>
 </p>
+
+<br><br>
 
 ## 📍 Onde você me encontra?
 
