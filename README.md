@@ -2,7 +2,7 @@
 
 ## Olá 👋, eu sou o Mateus Vitor!
 
-(url)<p align="left"> <img src="https://komarev.com/ghpvc/?username=vittorduartte&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vittorduartte&color=red" alt="Profile views" /> </p>
 
 Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃
 
