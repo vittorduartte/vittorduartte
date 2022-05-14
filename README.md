@@ -1,15 +1,15 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/vittorduartte/vittorduartte/733fc31f90608db8b3a248e736ea8d39c52c9dac/assets/readme-image.png"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/vittorduartte/vittorduartte/733fc31f90608db8b3a248e736ea8d39c52c9dac/assets/readme-image.png"/> -->
 
 ## Olá 👋, eu sou o Mateus Vitor!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vittorduartte&color=red" alt="Profile views" /> </p>
+(url)<p align="left"> <img src="https://komarev.com/ghpvc/?username=vittorduartte&color=red" alt="Profile views" /> </p>
 
 Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃
 
 - 🧑‍💻 Desenvolvedor Full Stack na [Terra Zoo](https://terrazoo.com.br/)
 - 🧑‍🎓 Graduado em Ciência e Tecnologia UFMA e Graduando em Engenharia da Computação UFMA
 - 📑 Membro da NELDS - Núcleo de Estudos e Laboratório de Desenvolvimento de Software UFMA
-- 🥁 "Hoje eu sou baterista!". Na verdade sempre fui, [confere aí](https://www.youtube.com/watch?v=VGPeux-hAXk).
+- 🥁 Músico :)
 - ⚡ Fun fact: já fui top 10 de acessos na categoria hardcore melódico do Palco MP3.
 - 💬 Você me encontra nas redes por @vittorduartte.
 
