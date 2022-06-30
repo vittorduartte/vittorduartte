@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vittorduartte&color=red" alt="Profile views" /> </p>
 
-Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃
+Para alguns também sou **Vitor Duarte**, mas atendo pelos dois nomes 🙃
 
 - 🧑‍💻 Python Developer na [Porter Group](https://portergroup.com.br/)
 - 🧑‍🎓 Graduado em Ciência e Tecnologia UFMA
