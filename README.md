@@ -6,7 +6,7 @@
 
 Para alguns também sou **Vitor Duarte**, mas antendo pelos dois nomes 🙃
 
-- 🧑‍💻 Desenvolvedor Full Stack na [Terra Zoo](https://terrazoo.com.br/)
+- 🧑‍💻 Python Developer na [Porter Group](https://portergroup.com.br/)
 - 🧑‍🎓 Graduado em Ciência e Tecnologia UFMA
 - 🥁 Músico :)
 - ⚡ Fun fact: já fui top 10 de acessos na categoria hardcore melódico do Palco MP3.
