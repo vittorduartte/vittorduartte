@@ -30,9 +30,9 @@ Para alguns também sou **Vitor Duarte**, mas atendo pelos dois nomes 🙃
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
+<!-- <br>
 
-[![@vittorduartte's Holopin board](https://holopin.me/vittorduartte)](https://holopin.io/@vittorduartte)
+[![@vittorduartte's Holopin board](https://holopin.me/vittorduartte)](https://holopin.io/@vittorduartte) -->
 
 <br>
 
