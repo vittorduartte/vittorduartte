@@ -8,7 +8,7 @@ Para alguns também sou **Vitor Duarte**, mas atendo pelos dois nomes 🙃
 
 - 🧑‍💻 Python Developer na [Porter Group](https://portergroup.com.br/)
 - 🧑‍🎓 Graduado em Ciência e Tecnologia UFMA
-- 🥁 Músico :)
+- 🥁 Músico
 - ⚡ Fun fact: já fui top 10 de acessos na categoria hardcore melódico do Palco MP3.
 - 💬 Você me encontra nas redes por @vittorduartte.
 
@@ -29,6 +29,10 @@ Para alguns também sou **Vitor Duarte**, mas atendo pelos dois nomes 🙃
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+[![@vittorduartte's Holopin board](https://holopin.me/vittorduartte)](https://holopin.io/@vittorduartte)
 
 <br>
 
